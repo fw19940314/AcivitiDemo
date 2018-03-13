@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry excluding="**/*.java" kind="src" path="src/main/resources"/>
+	<classpathentry including="**/*.java" kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry excluding="**/*.java" kind="src" output="target/test-classes" path="src/test/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Activiti Designer Extensions"/>
+	<classpathentry kind="lib" path="lib/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/activiti-bpmn-converter-5.13.jar"/>
+	<classpathentry kind="lib" path="lib/activiti-bpmn-layout-5.13.jar"/>
+	<classpathentry kind="lib" path="lib/activiti-bpmn-model-5.13.jar"/>
+	<classpathentry kind="lib" path="lib/activiti-common-rest-5.13.jar"/>
+	<classpathentry kind="lib" path="lib/activiti-engine-5.13.jar" sourcepath="F:/资源/传智播客_Activiti工作流视频（企业开发实例讲解）/activiti工作流/activiti资料/install/activiti-5.13/libs/activiti-engine-5.13-sources.jar"/>
+	<classpathentry kind="lib" path="lib/activiti-json-converter-5.13.jar"/>
+	<classpathentry kind="lib" path="lib/activiti-rest-5.13.jar"/>
+	<classpathentry kind="lib" path="lib/activiti-simple-workflow-5.13.jar"/>
+	<classpathentry kind="lib" path="lib/activiti-spring-5.13.jar"/>
+	<classpathentry kind="lib" path="lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-email-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-pool-1.5.4.jar"/>
+	<classpathentry kind="lib" path="lib/h2-1.3.170.jar"/>
+	<classpathentry kind="lib" path="lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-asl-1.9.9.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-mapper-asl-1.9.9.jar"/>
+	<classpathentry kind="lib" path="lib/javaGeom-0.11.0.jar"/>
+	<classpathentry kind="lib" path="lib/jcl-over-slf4j-1.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/jgraphx-1.10.4.2.jar"/>
+	<classpathentry kind="lib" path="lib/joda-time-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="lib/mail-1.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/mybatis-3.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.10-bin.jar"/>
+	<classpathentry kind="lib" path="lib/org.restlet-2.0.15.jar"/>
+	<classpathentry kind="lib" path="lib/org.restlet.ext.fileupload-2.0.15.jar"/>
+	<classpathentry kind="lib" path="lib/org.restlet.ext.jackson-2.0.15.jar"/>
+	<classpathentry kind="lib" path="lib/org.restlet.ext.servlet-2.0.15.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/spring-aop-3.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-asm-3.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-beans-3.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-context-3.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-core-3.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-expression-3.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-jdbc-3.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-orm-3.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-tx-3.1.2.RELEASE.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
